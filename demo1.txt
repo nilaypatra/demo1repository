@@ -1,4 +1,4 @@
 
 ~OWO!
 ~my first file in devops trng!
-
+still understanding commit 
